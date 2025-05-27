@@ -50,10 +50,10 @@ El comité **TC39** de ECMA es el encargado de definir nuevas versiones del est�
 
 Aquí encontrarás los enlaces a las guías técnicas, estructuradas en partes por claridad y profundidad. Iremos subiendo cada una de forma progresiva.
 
-| Versión       | ECMAScript      | Parte    | Contenido principal                                                                                                                       |
-| ------------- | --------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| **ES9**       | ECMAScript 2018 | Parte II | **RegExp improvements**: _`s` (dotAll) , Named Capturing Groups, Lookbehind Assertions, Unicode Property, Escapes_. **Template Literals** |
-| En proceso... | ...             | ...      | ...                                                                                                                                       |
+| Versión                                                                          | ECMAScript      | Parte    | Contenido principal                                                                                                                       |
+| -------------------------------------------------------------------------------- | --------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| [**ES9**](https://github.com/mauriciogc/ECMAScript/blob/main/readme/ES19-pII.md) | ECMAScript 2018 | Parte II | **RegExp improvements**: _`s` (dotAll) , Named Capturing Groups, Lookbehind Assertions, Unicode Property, Escapes_. **Template Literals** |
+| En proceso...                                                                    | ...             | ...      | ...                                                                                                                                       |
 
 ---
 
