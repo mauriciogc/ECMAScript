@@ -52,7 +52,8 @@ Aquí encontrarás los enlaces a las guías técnicas, estructuradas en partes p
 
 | Versión                                                                          | ECMAScript      | Parte    | Contenido principal                                                                                                                       |
 | -------------------------------------------------------------------------------- | --------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| [**ES9**](https://github.com/mauriciogc/ECMAScript/blob/main/readme/ES19-pII.md) | ECMAScript 2018 | Parte II | **RegExp improvements**: _`s` (dotAll) , Named Capturing Groups, Lookbehind Assertions, Unicode Property, Escapes_. **Template Literals** |
+| [**ES9**](https://github.com/mauriciogc/ECMAScript/blob/main/readme/ES19-pI.md)  | ECMAScript 2018 | Parte I  | **RegExp improvements**: _`s` (dotAll) , Named Capturing Groups, Lookbehind Assertions, Unicode Property, Escapes_. **Template Literals** |
+| [**ES9**](https://github.com/mauriciogc/ECMAScript/blob/main/readme/ES19-pII.md) | ECMAScript 2018 | Parte II | Rest y Spread Properties para Objetos, Asynchronous, Iteration (`for await…of`), `Promise.prototype.finally`                              |
 | En proceso...                                                                    | ...             | ...      | ...                                                                                                                                       |
 
 ---
