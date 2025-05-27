@@ -50,11 +50,12 @@ El comité **TC39** de ECMA es el encargado de definir nuevas versiones del est�
 
 Aquí encontrarás los enlaces a las guías técnicas, estructuradas en partes por claridad y profundidad. Iremos subiendo cada una de forma progresiva.
 
-| Versión                                                                          | ECMAScript      | Parte    | Contenido principal                                                                                                                       |
-| -------------------------------------------------------------------------------- | --------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| [**ES9**](https://github.com/mauriciogc/ECMAScript/blob/main/readme/ES19-pI.md)  | ECMAScript 2018 | Parte I  | **RegExp improvements**: _`s` (dotAll) , Named Capturing Groups, Lookbehind Assertions, Unicode Property, Escapes_. **Template Literals** |
-| [**ES9**](https://github.com/mauriciogc/ECMAScript/blob/main/readme/ES19-pII.md) | ECMAScript 2018 | Parte II | Rest y Spread Properties para Objetos, Asynchronous, Iteration (`for await…of`), `Promise.prototype.finally`                              |
-| En proceso...                                                                    | ...             | ...      | ...                                                                                                                                       |
+| Versión                                                                              | ECMAScript      | Parte    | Contenido principal                                                                                                                       |
+| ------------------------------------------------------------------------------------ | --------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| [**ES8**](https://github.com/mauriciogc/ECMAScript/blob/main/readme/ECMA2017-pI.md)  | ECMAScript 2017 | Parte I  | `Object.values`, `Object.entries`, `Object.getOwnPropertyDescriptors`                                                                     |
+| [**ES9**](https://github.com/mauriciogc/ECMAScript/blob/main/readme/ECMA2018-pI.md)  | ECMAScript 2018 | Parte I  | **RegExp improvements**: _`s` (dotAll) , Named Capturing Groups, Lookbehind Assertions, Unicode Property, Escapes_. **Template Literals** |
+| [**ES9**](https://github.com/mauriciogc/ECMAScript/blob/main/readme/ECMA2018-pII.md) | ECMAScript 2018 | Parte II | Rest y Spread Properties para Objetos, Asynchronous, Iteration (`for await…of`), `Promise.prototype.finally`                              |
+| En proceso...                                                                        | ...             | ...      | ...                                                                                                                                       |
 
 ---
 
